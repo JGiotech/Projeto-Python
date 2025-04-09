@@ -24,15 +24,3 @@ while True:
     
     if voltar.lower == ("voltar"):
         break
-         
-
-
-    
-        
-        
-    
-    
-    
-    
-    
-
